@@ -722,8 +722,8 @@ color:red;}
   text-align:center;
  }
   .dot{
-    height: 100px;
-    width: 100px;
+    height: 85px;
+    width: 85px;
     background-color: #f47354;;
     border-radius: 50%;
     display: inline-block;
